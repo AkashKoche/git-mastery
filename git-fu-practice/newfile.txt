@@ -1,2 +1,8 @@
 Lest's start over
+<<<<<<< HEAD
 Hotfix on main
+=======
+Feature step 1
+Feature step 1
+>>>>>>> ecfef48 (Implement step 1)
+This commit will be lost
