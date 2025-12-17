@@ -1,1 +1,10 @@
 body { colo: red;}
+/* Dark mode styles */
+.dark-mode {
+    background-color: #1a1a1a;
+    color: #ffffff;
+}
+
+.dark-mode #env {
+    color: #90ee90;
+}
